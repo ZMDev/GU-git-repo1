@@ -1,0 +1,11 @@
+#Home task of 2nd lesson on March
+
+def (InitialStep);
+gitHubAccount=AlreadyDone;
+
+try:
+	ToDo=Install;
+	ToDo=ConnectTo(gitHubAccount);
+	
+except Exception (e)
+	print(e);
