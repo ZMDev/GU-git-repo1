@@ -4,3 +4,6 @@ ToDO=Action(1);
 
 IF Action(1) == True Then print("All thngs are Ok!")
 
+NewAge(+1);
+
+
